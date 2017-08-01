@@ -1,0 +1,14 @@
+{
+  "name": "Load data from Enigma", 
+  "id_name": "enigma",
+  "category": "Sources",
+  "description": "Enter a URL to retrieve an Enigma dataset.",
+  "parameters": [
+    {
+      "name": "Enigma URL",
+      "id_name": "enigma_url",
+      "type": "string",
+      "default": ""
+    }
+  ]
+}
